@@ -1,0 +1,3 @@
+[submodule "services/fa-auth-service"]
+	path = services/fa-auth-service
+	url = git@github.com:abdoufermat5/fa-auth-service.git
