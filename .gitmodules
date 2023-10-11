@@ -1,3 +1,21 @@
 [submodule "services/fa-auth-service"]
 	path = services/fa-auth-service
 	url = git@github.com:abdoufermat5/fa-auth-service.git
+[submodule "services/fa-document-storage-service"]
+	path = services/fa-document-storage-service
+	url = git@github.com:abdoufermat5/fa-document-storage-service.git
+[submodule "services/fa-data-extraction-service"]
+	path = services/fa-data-extraction-service
+	url = git@github.com:abdoufermat5/fa-data-extraction-service.git
+[submodule "services/fa-process-document-service"]
+	path = services/fa-process-document-service
+	url = git@github.com:abdoufermat5/fa-process-document-service.git
+[submodule "services/fa-inference-document-service"]
+	path = services/fa-inference-document-service
+	url = git@github.com:abdoufermat5/fa-inference-document-service.git
+[submodule "services/fa-statistics-service"]
+	path = services/fa-statistics-service
+	url = git@github.com:abdoufermat5/fa-statistics-service.git
+[submodule "fa-api-gateway"]
+	path = fa-api-gateway
+	url = git@github.com:abdoufermat5/fa-api-gateway.git
